@@ -1,8 +1,8 @@
-# Changelog v1.0
+# Changelog v1.0.1
 
 ## Additions
 - Added painting
-  - Best Moderator
+  - Nemo's Portrait
 
 For a gallery and more info check the [wiki](https://nemonotfound.com/minecraft-mods/nemos-paintings/wiki)
 
