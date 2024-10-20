@@ -1,5 +1,9 @@
 {
   "asset_id": "nemos-paintings:nemos_portrait",
   "height": 1,
-  "width": 1
+  "width": 1,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.nemos-paintings.nemos_portrait.title"
+  }
 }

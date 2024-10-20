@@ -1,5 +1,9 @@
 {
   "asset_id": "nemos-paintings:best_moderator",
   "height": 2,
-  "width": 3
+  "width": 3,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.nemos-paintings.best_moderator.title"
+  }
 }
