@@ -2,6 +2,10 @@
   "asset_id": "nemos-paintings:best_moderator",
   "height": 2,
   "width": 3,
+  "author": {
+    "color": "gray",
+    "translate": "painting.nemos-paintings.best_moderator.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.nemos-paintings.best_moderator.title"

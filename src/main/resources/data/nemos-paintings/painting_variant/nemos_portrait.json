@@ -2,6 +2,10 @@
   "asset_id": "nemos-paintings:nemos_portrait",
   "height": 1,
   "width": 1,
+  "author": {
+    "color": "gray",
+    "translate": "painting.nemos-paintings.nemos_portrait.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.nemos-paintings.nemos_portrait.title"
