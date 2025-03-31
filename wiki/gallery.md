@@ -32,21 +32,21 @@ _By NemoNotFound_
 ![Crimson Claw](https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/minecraft_projects/galleries/nemos_paintings/crimson_claw.png?raw=true)<br>
 A red and yellow, dragon-like claw from a seemingly ancient beast!
 
-_By ChemDrop_
+_By [ChemDrop](https://www.curseforge.com/members/chemdrop/projects)_
 <br><br>
 
 # Deep Blue
 ![Deep Blue](https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/minecraft_projects/galleries/nemos_paintings/deep_blue.png?raw=true)<br>
 A simple, abstract artwork with shades of blue and green.
 
-_By ChemDrop_
+_By [ChemDrop](https://www.curseforge.com/members/chemdrop/projects)_
 <br><br>
 
 # Lone Wolf
 ![Lone Wolf](https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/minecraft_projects/galleries/nemos_paintings/lone_wolf.png?raw=true)<br>
 A lone wolf howling at the moon in the night sky.
 
-_By ChemDrop_
+_By [ChemDrop](https://www.curseforge.com/members/chemdrop/projects)_
 <br><br>
 
 # Night Watching
