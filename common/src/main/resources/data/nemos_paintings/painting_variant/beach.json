@@ -1,0 +1,13 @@
+{
+  "asset_id": "nemos_paintings:beach",
+  "height": 1,
+  "width": 2,
+  "author": {
+    "color": "gray",
+    "translate": "painting.nemos_paintings.beach.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.nemos_paintings.beach.title"
+  }
+}

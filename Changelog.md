@@ -1,5 +1,7 @@
-# Changelog v1.0
+# Changelog v2.0
 
 ## Additions
+- Added "Nether Wates"
 
-## Changes
+## Breaking Changes
+- Changed mod id

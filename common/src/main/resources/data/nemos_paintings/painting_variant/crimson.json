@@ -1,0 +1,13 @@
+{
+  "asset_id": "nemos_paintings:crimson",
+  "height": 1,
+  "width": 1,
+  "author": {
+    "color": "gray",
+    "translate": "painting.nemos_paintings.crimson.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.nemos_paintings.crimson.title"
+  }
+}

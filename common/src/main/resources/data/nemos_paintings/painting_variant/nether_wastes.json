@@ -1,0 +1,13 @@
+{
+  "asset_id": "nemos_paintings:nether_wastes",
+  "height": 2,
+  "width": 1,
+  "author": {
+    "color": "gray",
+    "translate": "painting.nemos_paintings.nether_wastes.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.nemos_paintings.nether_wastes.title"
+  }
+}

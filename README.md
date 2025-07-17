@@ -1,14 +1,15 @@
-![Mod](https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/minecraft_projects/titles/png/mod.png?raw=true)
+![Mod](https://github.com/NemoNotFound/NemoNotFound/blob/master/resources/minecraft_projects/titles/png/nemos_paintings.png?raw=true)
 <br><br>
 
 # Description
-...
+Nemo's Paintings is a community-driven project.
+It adds a mix of silly and stylish paintings!
 
-For more information and to see how to configure the components check the [wiki](https://github.com/NemoNotFound/MOD/wiki).
+For more information and to see how to configure the components check the [wiki](https://wiki.devnemo.com/projects/minecraft-mods/nemos-paintings/general).
 
 # Downloads
-- [CurseForge](https://curseforge.com/minecraft/mc-mods/MOD)
-- [Modrinth](https://modrinth.com/mod/MOD)
+- [CurseForge](https://curseforge.com/minecraft/mc-mods/nemos-paintings)
+- [Modrinth](https://modrinth.com/mod/nemos-paintings)
 <br><br>
 
 # Join my Discord!
@@ -17,7 +18,7 @@ For more information and to see how to configure the components check the [wiki]
 
 # Support Me
 I love to create mods for Minecraft and wish to live off it one day, so I hope you like what I do. <br>
-Either way feel free to give me your feedback and suggestions, either on my Discord or the [discussions](https://github.com/NemoNotFound/MOD/discussions/) :)
+Either way feel free to give me your feedback and suggestions, either on my Discord or the [discussions](https://github.com/NemoNotFound/NemosPaintings/discussions/) :)
 <br><br>
 
 [![ko-fi donation](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nemonotfound)
