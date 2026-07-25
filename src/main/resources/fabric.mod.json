@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "nemos_paintings",
+	"version": "${version}",
+	"name": "Nemo's Paintings",
+	"description": "Add new paintings to Minecraft!",
+	"authors": [
+		"Nemo"
+	],
+	"contact": {
+        "homepage": "https://wiki.nemonotfound.com/projects/minecraft-mods/nemos-paintings/general",
+        "sources": "https://github.com/NemoNotFound/NemosPaintings",
+        "issues": "https://github.com/NemoNotFound/NemosPaintings/issues"
+	},
+	"icon": "assets/nemos_paintings/textures/art/nemos_portrait.png",
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.nemonotfound.NemosPaintings"
+		]
+	},
+	"mixins": [
+		"nemospaintings.mixins.json"
+		],
+	"depends": {
+		"fabricloader": ">=${fabricloader}",
+		"halplibe": ">=${halplibe}",
+		"minecraft": "*",
+		"java": ">=${java}"
+	},
+	"suggests": {
+		"modmenu": ">=${modmenu}"
+	}
+}
